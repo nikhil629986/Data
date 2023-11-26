@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "654e76c6361fb8fd9405ff27"
+  },
+  "department": "Marketing",
+  "job_title": "Marketing Manager",
+  "description": "We are seeking a talented and experienced Marketing Manager to lead our team and develop effective marketing strategies.",
+  "qualification_requirements": "Bachelor's degree in Marketing or related field, proven track record of successful marketing campaigns",
+  "experience_requirements": "5+ years in marketing management",
+  "image_url": "https://www.kindpng.com/picc/m/246-2461935_job-icon-png-transparent-png.png",
+  "salary_range": "Rs50000"
+},
+{
+  "_id": {
+    "$oid": "6551d5f35e3d94bd161e18fb"
+  },
+  "department": "Marketing",
+  "job_title": "Digital Marketing Manager Job",
+  "description": "The Digital Marketing Manager will be responsible for developing and executing strategies to increase online brand visibility, web traffic and lead generation. This will include managing online advertising campaigns, social media, email marketing, SEO, and content creation",
+  "qualification_requirements": "Bachelor's degree in marketing or related field, proficiency in Google Analytics, experience with marketing automation tools, and exceptional analytical and communication skills",
+  "experience_requirements": "5-7+ years of experience in digital marketing and managing campaigns across various channels.",
+  "salary_range": " Rs 80,000",
+  "image_url": "https://th.bing.com/th/id/OIP.MkNE6g35pdKuLe6QBLFv9wAAAA?pid=ImgDet&rs=1"
+},
+{
+  "_id": {
+    "$oid": "6551d6975e3d94bd161e18fc"
+  },
+  "department": "Finance ",
+  "job_title": "Financial Analyst Job",
+  "description": "The Financial Analyst will be responsible for analyzing financial data and creating financial models to aid in the decision-making process for the company. This will include preparing financial reports, forecasting financial performance, and identifying budget variances",
+  "qualification_requirements": "Bachelor's degree in finance or related field, proficiency in Excel, ability to analyze complex financial data, and strong attention to detail.",
+  "experience_requirements": "2-4+ years of experience in financial analysis and reporting. Salary Range:",
+  "salary_range": "Rs 60,000",
+  "image_url": "https://cdn3.iconfinder.com/data/icons/business-management-part-4-1/512/20-512.png"
+},
+{
+  "_id": {
+    "$oid": "6551d7115e3d94bd161e18fd"
+  },
+  "department": "Sales Job",
+  "job_title": "Sales Representative Job",
+  "description": "The Sales Representative will be responsible for selling company products or services to existing and prospective customers. This will include managing customer relationships, identifying new sales opportunities, and following up on leads",
+  "qualification_requirements": "Bachelor's degree in business or related field, strong communication and negotiation skills, ability to work independently, and proficiency in CRM systems. ",
+  "experience_requirements": "1-3+ years of experience in sales, with a track record of meeting or exceeding sales quotas. ",
+  "salary_range": " Rs 40,000",
+  "image_url": "https://www.kindpng.com/picc/m/246-2461935_job-icon-png-transparent-png.png"
+},
+{
+  "_id": {
+    "$oid": "6551fb995e3d94bd161e18fe"
+  },
+  "department": "Human Resources",
+  "job_title": "Human Resources Manager",
+  "description": "xyz",
+  "qualification_requirements": "Bachelor's degree in HR or related field, proven track record of success in human resources, experience with HRIS systems, exceptional communication and leadership skills",
+  "experience_requirements": "+ years in human resources management",
+  "salary_range": "900000",
+  "image_url": "https://cdn0.iconfinder.com/data/icons/real-estate-323/64/Tenant-rent-office-building-apartment-512.png"
+},
+{
+  "_id": {
+    "$oid": "65524bc3ad506bb581025bbe"
+  },
+  "department": "Human Resources",
+  "job_title": "Human Resources Manager",
+  "description": "djfdjfpdsfds",
+  "qualification_requirements": "Bachelor's degree in HR or related field, proven track record of success in human resources, experience with HRIS systems, exceptional communication and leadership skills",
+  "experience_requirements": "+ years in human resources management",
+  "salary_range": "900000",
+  "image_url": "https://th.bing.com/th/id/OIP.FdADUfEOOFm2lB114GY5UQHaHa?pid=ImgDet&rs=1"
+},
+{
+  "_id": {
+    "$oid": "655700df026064d3eaef8b7e"
+  },
+  "department": "Human Resources",
+  "job_title": "HR Manager",
+  "description": "Hr",
+  "qualification_requirements": "Btech",
+  "experience_requirements": "7+ years in HR management",
+  "salary_range": "900000",
+  "image_url": "https://th.bing.com/th/id/OIP.F_oo-HIe743EBbgzBYyJ7gHaGN?rs=1&pid=ImgDetMain"
+},
+{
+  "_id": {
+    "$oid": "65587a83361fb8fd94060008"
+  },
+  "department": "Human Resources",
+  "job_title": "Human Resources Manager",
+  "description": "djfdjfpdsfds",
+  "qualification_requirements": "Bachelor's degree in HR or related field, proven track record of success in human resources, experience with HRIS systems, exceptional communication and leadership skills",
+  "experience_requirements": "+ years in human resources management",
+  "salary_range": "900000",
+  "image_url": "https://th.bing.com/th/id/OIP.FdADUfEOOFm2lB114GY5UQHaHa?pid=ImgDet&rs=1"
+},
+{
+  "_id": {
+    "$oid": "65591a03206c398fedb1d7da"
+  },
+  "department": "Human Resources",
+  "job_title": "Human Resources Manager",
+  "description": "Human Resources Manager",
+  "qualification_requirements": "Bachelor's degree in HR or related field, proven track record of success in human resources, experience with HRIS systems, exceptional communication and leadership skills",
+  "experience_requirements": "2 years",
+  "salary_range": "1000000",
+  "image_url": "https://th.bing.com/th/id/R.cc5332efcbd4027a2daccc24eea68c29?rik=gGHzEQpNIbxMFQ&riu=http%3a%2f%2fwww.clker.com%2fcliparts%2f4%2fe%2f4%2fa%2f13682973751371388806admin-icon-hi.png&ehk=HMRM%2fgA7jQyFPduZfbQ5yeZtfSI793glkuArAVr5B98%3d&risl=&pid=ImgRaw&r=0"
+},
+{
+  "_id": {
+    "$oid": "655a1a26361fb8fd94060084"
+  },
+  "department": "Marketing",
+  "job_title": "Marketing Manager",
+  "description": "We are seeking a talented and experienced Marketing Manager to lead our team and develop effective marketing strategies.",
+  "qualification_requirements": "Bachelor's degree in Marketing or related field, proven track record of successful marketing campaigns",
+  "experience_requirements": "5+ years in marketing management",
+  "image_url": "https://www.kindpng.com/picc/m/246-2461935_job-icon-png-transparent-png.png",
+  "salary_range": "Rs50000"
+},
+{
+  "_id": {
+    "$oid": "655a1a33361fb8fd94060086"
+  },
+  "department": "Sales Job",
+  "job_title": "Sales Representative Job",
+  "description": "The Sales Representative will be responsible for selling company products or services to existing and prospective customers. This will include managing customer relationships, identifying new sales opportunities, and following up on leads",
+  "qualification_requirements": "Bachelor's degree in business or related field, strong communication and negotiation skills, ability to work independently, and proficiency in CRM systems. ",
+  "experience_requirements": "1-3+ years of experience in sales, with a track record of meeting or exceeding sales quotas. ",
+  "salary_range": " Rs 40,000",
+  "image_url": "https://www.kindpng.com/picc/m/246-2461935_job-icon-png-transparent-png.png"
+},
+{
+  "_id": {
+    "$oid": "655a1a4e361fb8fd94060088"
+  },
+  "department": "Sales Job",
+  "job_title": "Sales Representative Job",
+  "description": "The Sales Representative will be responsible for selling company products or services to existing and prospective customers. This will include managing customer relationships, identifying new sales opportunities, and following up on leads",
+  "qualification_requirements": "Bachelor's degree in business or related field, strong communication and negotiation skills, ability to work independently, and proficiency in CRM systems. ",
+  "experience_requirements": "1-3+ years of experience in sales, with a track record of meeting or exceeding sales quotas. ",
+  "salary_range": " Rs 40,000",
+  "image_url": "https://www.kindpng.com/picc/m/246-2461935_job-icon-png-transparent-png.png"
+},
+{
+  "_id": {
+    "$oid": "655b914c206c398fedb1d7e6"
+  },
+  "department": "Human Resources",
+  "job_title": "Human Resources Manager",
+  "description": "",
+  "qualification_requirements": "Bachelor's degree in HR or related field, proven track record of success in human resources, experience with HRIS systems, exceptional communication and leadership skills",
+  "experience_requirements": "2 years",
+  "salary_range": "1000000",
+  "image_url": "https://th.bing.com/th/id/R.cc5332efcbd4027a2daccc24eea68c29?rik=gGHzEQpNIbxMFQ&riu=http%3a%2f%2fwww.clker.com%2fcliparts%2f4%2fe%2f4%2fa%2f13682973751371388806admin-icon-hi.png&ehk=HMRM%2fgA7jQyFPduZfbQ5yeZtfSI793glkuArAVr5B98%3d&risl=&pid=ImgRaw&r=0"
+},
+{
+  "_id": {
+    "$oid": "655da1a78e0c51a8157a7b5e"
+  },
+  "department": "Human Resources",
+  "job_title": "Human Resources Manager",
+  "description": "Xyz",
+  "qualification_requirements": "Bachelor's degree in HR or related field, proven track record of success in human resources, experience with HRIS systems, exceptional communication and leadership skills",
+  "experience_requirements": "2 years",
+  "salary_range": "1000000",
+  "image_url": "https://th.bing.com/th/id/OIP.J91ajizHgwvvColE36Of5QHaHa?rs=1&pid=ImgDetMain"
+}]

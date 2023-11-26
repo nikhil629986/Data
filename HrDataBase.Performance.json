@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "6555c754361fb8fd9405ffd8"
+  },
+  "employee_id": "6553be64361fb8fd9405ff95",
+  "description": "Good Employee",
+  "status": "Completed Daily Task",
+  "employeerating": "5",
+  "daily_goals": [
+    {
+      "date": "string",
+      "description": "string"
+    },
+    {
+      "date": "2023-10-31",
+      "description": "xyz"
+    },
+    {
+      "date": "2023-11-21",
+      "description": "Sprint sheet 2 done"
+    },
+    {
+      "date": "2023-11-23",
+      "description": "Task 1Completed"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65570249661ba68aa256efed"
+  },
+  "employee_id": "65550e8bff4c17ad01d920df",
+  "description": "Completed",
+  "status": "Completed Sprint 1",
+  "employeerating": "5",
+  "daily_goals": [
+    {
+      "date": "string",
+      "description": "string"
+    },
+    {
+      "date": "2023-11-21",
+      "description": "Sprint sheet 1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6558f45c361fb8fd9406002b"
+  },
+  "employee_id": "6555297fff4c17ad01d920e1",
+  "description": "DAY 3 TASK REVIEW",
+  "status": "Completed",
+  "employeerating": "5",
+  "daily_goals": [
+    {
+      "date": "2023-11-03",
+      "description": "ABC"
+    },
+    {
+      "date": "2023-11-20",
+      "description": "Sprint 1 done"
+    },
+    {
+      "date": "2023-11-20",
+      "description": "sprint 2 done"
+    },
+    {
+      "date": "2023-11-20",
+      "description": "Interview"
+    },
+    {
+      "date": "2023-11-21",
+      "description": "Interview"
+    },
+    {
+      "date": "2023-11-15",
+      "description": "Day 3 task done"
+    },
+    {
+      "date": "2023-11-21",
+      "description": "DAY  4 TASK DONE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6558f4b7361fb8fd9406003d"
+  },
+  "employee_id": "65552b7aff4c17ad01d920ea",
+  "description": "Pending",
+  "status": "Pending",
+  "employeerating": "Pending",
+  "daily_goals": [
+    {
+      "date": "string",
+      "description": "string"
+    },
+    {
+      "date": "2023-11-15",
+      "description": "Completed Daily Target"
+    },
+    {
+      "date": "2023-11-20",
+      "description": "Sprint sheet 1 done"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6558f536361fb8fd9406004d"
+  },
+  "employee_id": "65552bbeff4c17ad01d920ec",
+  "description": "Complete Sprint Sheet1",
+  "status": "Pending",
+  "employeerating": "",
+  "daily_goals": [
+    {
+      "date": "string",
+      "description": "string"
+    },
+    {
+      "date": "2023-11-20",
+      "description": "Added Daily Task Feature"
+    },
+    {
+      "date": "2023-11-21",
+      "description": "Added Manager LeaveFeature"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6558f574361fb8fd94060051"
+  },
+  "employee_id": "65552c74ff4c17ad01d920ee",
+  "description": "Pending",
+  "status": "Pending",
+  "employeerating": "Pending",
+  "daily_goals": [
+    {
+      "date": "string",
+      "description": "string"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6558f596361fb8fd94060054"
+  },
+  "employee_id": "6558c89eb752ffd415055645",
+  "description": "Pending",
+  "status": "Pending",
+  "employeerating": "Pending",
+  "daily_goals": [
+    {
+      "date": "string",
+      "description": "string"
+    }
+  ]
+}]

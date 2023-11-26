@@ -1,0 +1,306 @@
+[{
+  "_id": {
+    "$oid": "65550e8bff4c17ad01d920df"
+  },
+  "usertableid": "1",
+  "name": "sudhanshu",
+  "email": "sudhanshu@gmail.com",
+  "phone": "12567890",
+  "address": "Hyderabad",
+  "Department": "Hr",
+  "dateofhire": "2023-11-17",
+  "attendance": [
+    {
+      "date": "2023-11-16",
+      "status": "present",
+      "clockin": "9:00am",
+      "clockout": "5:00pm"
+    },
+    {
+      "date": "2023-11-06",
+      "status": "Present",
+      "clockin": "00:04",
+      "clockout": "16:04"
+    },
+    {
+      "date": "2023-11-15",
+      "status": "Present",
+      "clockin": "16:49",
+      "clockout": "16:49"
+    },
+    {
+      "date": "2023-11-16",
+      "status": "Present",
+      "clockin": "07:04",
+      "clockout": "17:03"
+    },
+    {
+      "date": "2023-11-19",
+      "status": "PRESENT",
+      "clockin": "01:37",
+      "clockout": "13:37"
+    },
+    {
+      "date": "2023-11-13",
+      "status": "present",
+      "clockin": "22:32",
+      "clockout": "10:32"
+    }
+  ],
+  "leaveRequests": [
+    {
+      "startDate": "2022-05-24",
+      "endDate": "2023-06-24",
+      "reason": "Going home on urgent basis",
+      "status": "Approved"
+    },
+    {
+      "startDate": "2023-11-22",
+      "endDate": "2023-11-15",
+      "reason": "Urgent",
+      "status": "Approved"
+    },
+    {
+      "startDate": "2023-11-19",
+      "endDate": "2023-11-19",
+      "reason": "XYZ",
+      "status": "Approved"
+    },
+    {
+      "startDate": "2023-11-20",
+      "endDate": "2023-11-21",
+      "reason": "Office",
+      "status": "Approved"
+    },
+    {
+      "startDate": "2023-11-21",
+      "endDate": "2023-11-21",
+      "reason": "Going Home",
+      "status": "Approved"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6555297fff4c17ad01d920e1"
+  },
+  "usertableid": "1",
+  "name": "kumar",
+  "email": "kumar@gmail.com",
+  "phone": "1234567890",
+  "address": "dhanbad",
+  "Department": "Consulting",
+  "dateofhire": "",
+  "attendance": [
+    {
+      "date": "2023-11-16",
+      "status": "present",
+      "clockin": "9:00am",
+      "clockout": "5:00pm"
+    },
+    {
+      "date": "2023-11-15",
+      "status": "Present",
+      "clockin": "04:59",
+      "clockout": "04:59"
+    },
+    {
+      "date": "2023-11-14",
+      "status": "Present",
+      "clockin": "05:21",
+      "clockout": "18:20"
+    },
+    {
+      "date": "2023-11-16",
+      "status": "Absent",
+      "clockin": "06:20",
+      "clockout": "05:20"
+    },
+    {
+      "date": "2023-11-22",
+      "status": "present",
+      "clockin": "06:19",
+      "clockout": ""
+    },
+    {
+      "date": "2023-11-15",
+      "status": "",
+      "clockin": "05:26",
+      "clockout": "07:27"
+    },
+    {
+      "date": "2023-11-22",
+      "status": "Work From Home",
+      "clockin": "12:01",
+      "clockout": "00:01"
+    }
+  ],
+  "leaveRequests": [
+    {
+      "startDate": "No Leave Applied",
+      "endDate": "No Leave Applied",
+      "reason": "No Leave Applied",
+      "status": "No Leave Applied"
+    },
+    {
+      "startDate": "2023-11-16",
+      "endDate": "2023-11-08",
+      "reason": "xyz",
+      "status": "Approved"
+    },
+    {
+      "startDate": "2023-11-22",
+      "endDate": "2023-11-24",
+      "reason": "Going Home For Medical Emergency",
+      "status": "Rejected"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65552b7aff4c17ad01d920ea"
+  },
+  "usertableid": "1",
+  "name": "Nitesh Kumar",
+  "email": "nitesh147@gmail.com",
+  "phone": "06299864113",
+  "address": "Hyderabad",
+  "Department": "Human Resources",
+  "dateofhire": "2023-11-02",
+  "attendance": [
+    {
+      "date": "2023-11-16",
+      "status": "present",
+      "clockin": "9:00am",
+      "clockout": "5:00pm"
+    },
+    {
+      "date": "2023-11-20",
+      "status": "Present",
+      "clockin": "22:36",
+      "clockout": "10:36"
+    }
+  ],
+  "leaveRequests": [
+    {
+      "startDate": "No Leave Applied",
+      "endDate": "No Leave Applied",
+      "reason": "No Leave Applied",
+      "status": "Rejected"
+    },
+    {
+      "startDate": "2023-11-21",
+      "endDate": "2023-11-20",
+      "reason": "Puja Vaction",
+      "status": "Approved"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65552bbeff4c17ad01d920ec"
+  },
+  "usertableid": "1",
+  "name": "Mayank",
+  "email": "mayank@gmail.com",
+  "phone": "04236278936",
+  "address": "Lucknow",
+  "Department": "Consulting",
+  "dateofhire": "2023-11-14",
+  "attendance": [
+    {
+      "date": "2023-11-16",
+      "status": "present",
+      "clockin": "9:00am",
+      "clockout": "5:00pm"
+    }
+  ],
+  "leaveRequests": [
+    {
+      "startDate": "No Leave Applied",
+      "endDate": "No Leave Applied",
+      "reason": "No Leave Applied",
+      "status": "Rejected"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65552c74ff4c17ad01d920ee"
+  },
+  "usertableid": "1",
+  "name": "Ronit  Mukherjee",
+  "email": "RonitMukherjee@chubb.com",
+  "phone": "06299864113",
+  "address": "Bhubaneshwar",
+  "Department": "Human Resources",
+  "dateofhire": "2023-11-15",
+  "attendance": [
+    {
+      "date": "2023-11-16",
+      "status": "present",
+      "clockin": "9:00am",
+      "clockout": "5:00pm"
+    },
+    {
+      "date": "2023-11-13",
+      "status": "Present",
+      "clockin": "11:20",
+      "clockout": "23:20"
+    },
+    {
+      "date": "2023-11-17",
+      "status": "Present",
+      "clockin": "18:51",
+      "clockout": "07:52"
+    }
+  ],
+  "leaveRequests": [
+    {
+      "startDate": "No Leave Applied",
+      "endDate": "No Leave Applied",
+      "reason": "No Leave Applied",
+      "status": "No Leave Applied"
+    },
+    {
+      "startDate": "2023-11-14",
+      "endDate": "2023-11-08",
+      "reason": "Going home",
+      "status": "Approved"
+    },
+    {
+      "startDate": null,
+      "endDate": null,
+      "reason": null,
+      "status": "Rejected"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6558c89eb752ffd415055645"
+  },
+  "usertableid": "1",
+  "name": "shreyash jaipuriar",
+  "email": "Shreyas@gmail.com",
+  "phone": "07209466527",
+  "address": "Sunsari, Nepal",
+  "Department": "Human Resources",
+  "dateofhire": "2023-11-21",
+  "attendance": [
+    {
+      "date": "2023-11-16",
+      "status": "present",
+      "clockin": "9:00am",
+      "clockout": "5:00pm"
+    }
+  ],
+  "leaveRequests": [
+    {
+      "startDate": "No Leave Applied",
+      "endDate": "No Leave Applied",
+      "reason": "No Leave Applied",
+      "status": "Rejected"
+    }
+  ]
+}]

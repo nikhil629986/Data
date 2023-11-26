@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "655b1a15206c398fedb1d7df"
+  },
+  "userid": 1,
+  "email": "sudhanshu@gmail.com",
+  "password": "$2a$10$7i2MX3mb7nNg2fN6rgwiAehRPgUFO8Q/gk3C2gJrfHIvMZNCDWkP6",
+  "first_name": "sudhanshu",
+  "last_name": "Kumar",
+  "role": "Hr"
+},
+{
+  "_id": {
+    "$oid": "655b1a32206c398fedb1d7e0"
+  },
+  "userid": 1,
+  "email": "kumar@gmail.com",
+  "password": "$2a$10$IHPh3WIuZ0HbriZDTM5lYOgPSftVhotKp.hHRSMM3L2mBSNiuiU9u",
+  "first_name": "kumar",
+  "last_name": "Singh",
+  "role": "employee"
+},
+{
+  "_id": {
+    "$oid": "655b1a57206c398fedb1d7e1"
+  },
+  "userid": 1,
+  "email": "nitesh147@gmail.com",
+  "password": "$2a$10$qQnI8FFiRZA7Sup.MOyYleFwuAFtL/M.fzDFEEFvv1iUk3JA30tFW",
+  "first_name": "Nitesh",
+  "last_name": "Nitesh",
+  "role": "employee"
+},
+{
+  "_id": {
+    "$oid": "655b1a74206c398fedb1d7e2"
+  },
+  "userid": 1,
+  "email": "RonitMukherjee@chubb.com",
+  "password": "$2a$10$/EXx/BLbegtPtV3REjLsBuTP20ze.LN8r2ObpmyhQfnkktzTp67bG",
+  "first_name": "Ronit",
+  "last_name": "Mukherjee",
+  "role": "employee"
+},
+{
+  "_id": {
+    "$oid": "655b1a90206c398fedb1d7e3"
+  },
+  "userid": 1,
+  "email": "Shreyas@gmail.com",
+  "password": "$2a$10$T3zxda9ZGSYpJVkiEhL45OOI3jRGvwhjpMlTZgnmii/OVpcOvnwkG",
+  "first_name": "shreyash",
+  "last_name": "jaipuriar",
+  "role": "Hr"
+},
+{
+  "_id": {
+    "$oid": "655b1b8d206c398fedb1d7e4"
+  },
+  "userid": 1,
+  "email": "mayank@gmail.com",
+  "password": "$2a$10$m9/FlxRK6hBrRevuGOxDN.uTjOVwxxvUlc.JX4t7GTb.CJOeC0FPK",
+  "first_name": "Mayank",
+  "last_name": "Mayank",
+  "role": "employee"
+}]
